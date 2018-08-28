@@ -21,6 +21,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "UdemyDOMEvents", "UdemyDOME
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "65447"
+		SlnRelativePath = "UdemyDOMEvents\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
